@@ -1,2 +1,0 @@
-# Pralaks
-Created with CodeSandbox
